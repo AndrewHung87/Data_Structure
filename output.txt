@@ -1,0 +1,24 @@
+Initial State of the List:
+_head -> Φ
+_tail -> Φ
+_size = 0
+
+After Inserting 20:
+_head -> 20 -> Φ
+_tail -> 20
+_size = 1
+
+After Inserting 10:
+_head -> 10 -> 20 -> Φ
+_tail -> 20
+_size = 2
+
+After Inserting 40:
+_head -> 10 -> 20 -> 40 -> Φ
+_tail -> 40
+_size = 3
+
+After Inserting 30:
+_head -> 10 -> 30 -> 20 -> 40 -> Φ
+_tail -> 40
+_size = 4
